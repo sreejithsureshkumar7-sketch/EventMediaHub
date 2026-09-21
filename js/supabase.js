@@ -1,6 +1,6 @@
 // Replace these two values with your Supabase project values.
 // NEVER put the service_role key here.
-const SUPABASE_URL = "https://rczlyfjqcgklihhjcy.supabase.co";
+const SUPABASE_URL = "rczlyfjqcgklihhjcy";
 const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_uQEPwdxcSnjXSWQhW6d3gw_61-i3dZj";
 
 if (SUPABASE_URL.includes("YOUR_") || SUPABASE_PUBLISHABLE_KEY.includes("YOUR_")) {
